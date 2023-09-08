@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirPLCServerClientTest", "Test01\VirPLCServerClientTest.csproj", "{22900750-98D2-425B-9E8C-BAD935948150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22900750-98D2-425B-9E8C-BAD935948150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22900750-98D2-425B-9E8C-BAD935948150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22900750-98D2-425B-9E8C-BAD935948150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22900750-98D2-425B-9E8C-BAD935948150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A089FFF-1815-4AD4-AA1F-25798D0F2A23}
+	EndGlobalSection
+EndGlobal
